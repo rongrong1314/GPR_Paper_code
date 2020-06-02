@@ -23,7 +23,7 @@ class Environment:
     '''
     #初始化
     def __init__(self, ranges, NUM_PTS, variance, lengthscale, noise=0.0001,
-                 visualize=True, seed=None, dim=2, model=None, MIN_COLOR=-25.0, MAX_COLOR=25.0,
+                 visualize = False, seed=None, dim=2, model=None, MIN_COLOR=-25.0, MAX_COLOR=25.0,
                  obstacle_world=obslib.FreeWorld(), time_duration=None):
         ''' Initialize a random Gaussian environment using the input kernel,
             assuming zero mean function.
@@ -175,7 +175,7 @@ class Environment:
                         np.random.seed(seed)
                         observations = self.models[T - 1].posterior_samples(data, full_cov=True, size=1)
                         self.GP.add_data(data, observations)
-
+                    #更新maxima，及下一个采样点
                     maxima = self.GP.xvals[np.argmax(self.GP.zvals), :]
 
                     # Plot the surface mesh and scatter plot representation of the samples points
@@ -193,7 +193,7 @@ class Environment:
                         ax2.set_title('Countour Plot of the Simulated Environment')
 
                         plot = ax2.contourf(x1vals, x2vals, self.GP.zvals.reshape(x1vals.shape), 25, cmap='viridis')
-
+                        #最大的z的列表，应该为最大方差不确定度
                         maxind = np.argmax(self.GP.zvals)
                         ax2.scatter(self.GP.xvals[maxind, 0], self.GP.xvals[maxind, 1], color='k', marker='*', s=500)
                         fig2.colorbar(plot, ax=ax2)
@@ -208,14 +208,13 @@ class Environment:
                         plt.close('all')
 
                 # World with satisfactory maxima generated
-                self.models[T] = copy.deepcopy(self.GP)
-
+                #self.models[T] = copy.deepcopy(self.GP) !!!!!
+            #将结果存储
             maxind = np.argmax(self.GP.zvals)
             self.max_val = self.GP.zvals[maxind, :]
             self.max_loc = self.GP.xvals[maxind, :]
 
-            print
-            "Environment initialized with bounds X1: (", self.x1min, ",", self.x1max, ")  X2:(", self.x2min, ",", self.x2max, ")"
+            print("Environment initialized with bounds X1: (", self.x1min, ",", self.x1max, ")  X2:(", self.x2min, ",", self.x2max, ")")
             logger.info("Environment initialized with bounds X1: ({}, {})  X2: ({}, {})".format(self.x1min, self.x1max,
                                                                                                 self.x2min, self.x2max))
 

@@ -50,8 +50,7 @@ class GPModel(object):
             self.dimension = dimension
             self.asymmetric = True
         else:
-            print
-            dimension
+            print(dimension)
             raise ValueError('Environment must have dimension 2 or 3')
 
         if kernel == 'rbf':

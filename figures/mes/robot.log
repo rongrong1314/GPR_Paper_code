@@ -11,3 +11,992 @@ WARNING:robot:Current environment in violation of boundary constraint. Regenerat
 INFO:GP:initializing Y
 INFO:GP:initializing inference method
 INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:[0] Current Location: (5.0, 5.0, 0.0)
+INFO:robot:Current predicted max and value: [0. 0.] 	 0.0
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:[0] Current Location: (5.0, 5.0, 0.0)
+INFO:robot:Current predicted max and value: [0. 0.] 	 0.0
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:[0] Current Location: (5.0, 5.0, 0.0)
+INFO:robot:Current predicted max and value: [0. 0.] 	 0.0
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:[0] Current Location: (5.0, 5.0, 0.0)
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:[0] Current Location: (5.0, 5.0, 0.0)
+INFO:robot:Current predicted max and value: [0. 0.] 	 0.0
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:[0] Current Location: (5.0, 5.0, 0.0)
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:[0] Current Location: (5.0, 5.0, 0.0)
+INFO:robot:Current predicted max and value: [0. 0.] 	 0.0
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:[0] Current Location: (5.0, 5.0, 0.0)
+INFO:robot:Current predicted max and value: [0. 0.] 	 0.0
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:[0] Current Location: (5.0, 5.0, 0.0)
+INFO:robot:Current predicted max and value: [0. 0.] 	 0.0
+INFO:robot:[1] Current Location: (5.335149778313376, 6.44263505832286, 1.3695422350712745)
+INFO:robot:Current predicted max and value: [5.55555556 7.37373737] 	 1.0278638909637379
+INFO:robot:Starting global optimization 0 of 3
+INFO:robot:Max Value in Optimization 	 [12.45839449]
+INFO:robot:Starting global optimization 1 of 3
+INFO:robot:Max Value in Optimization 	 [20.19208036]
+INFO:robot:Starting global optimization 2 of 3
+INFO:robot:Max Value in Optimization 	 [24.11271583]
+INFO:robot:[2] Current Location: (4.656737734956225, 7.777642450685842, 2.04836129260233)
+INFO:robot:Current predicted max and value: [4.54545455 7.97979798] 	 9.44575547546944
+INFO:robot:Starting global optimization 0 of 3
+INFO:robot:Max Value in Optimization 	 [20.01996693]
+INFO:robot:Starting global optimization 1 of 3
+INFO:robot:Max Value in Optimization 	 [29.71793988]
+INFO:robot:Starting global optimization 2 of 3
+INFO:robot:Max Value in Optimization 	 [24.50949128]
+INFO:robot:[3] Current Location: (5.410201564038827, 9.065093616097965, 1.0252368668317846)
+INFO:robot:Current predicted max and value: [4.94949495 8.28282828] 	 10.905539010264686
+INFO:robot:Starting global optimization 0 of 3
+INFO:robot:Max Value in Optimization 	 [16.01430185]
+INFO:robot:Starting global optimization 1 of 3
+INFO:robot:Max Value in Optimization 	 [23.66456688]
+INFO:robot:Starting global optimization 2 of 3
+INFO:robot:Max Value in Optimization 	 [32.94952601]
+INFO:robot:[4] Current Location: (4.084144924012345, 9.687237596620266, 2.742024373016002)
+INFO:robot:Current predicted max and value: [5.05050505 8.18181818] 	 11.04932349794559
+INFO:robot:Starting global optimization 0 of 3
+INFO:robot:Max Value in Optimization 	 [22.99613797]
+INFO:robot:Starting global optimization 1 of 3
+INFO:robot:Max Value in Optimization 	 [21.57578794]
+INFO:robot:Starting global optimization 2 of 3
+INFO:robot:Max Value in Optimization 	 [32.71697614]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:[0] Current Location: (5.0, 5.0, 0.0)
+INFO:robot:Current predicted max and value: [0. 0.] 	 0.0
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:[0] Current Location: (5.0, 5.0, 0.0)
+INFO:robot:Current predicted max and value: [0. 0.] 	 0.0
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:[0] Current Location: (5.0, 5.0, 0.0)
+INFO:robot:Current predicted max and value: [0. 0.] 	 0.0
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:[0] Current Location: (5.0, 5.0, 0.0)
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:[0] Current Location: (5.0, 5.0, 0.0)
+INFO:robot:Current predicted max and value: [0. 0.] 	 0.0
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:[0] Current Location: (5.0, 5.0, 0.0)
+INFO:robot:Current predicted max and value: [0. 0.] 	 0.0
+INFO:robot:[1] Current Location: (6.172449088911334, 4.068414914166819, 5.604366249648532)
+INFO:robot:Current predicted max and value: [6.86868687 3.53535354] 	 2.6244292724345
+INFO:robot:Starting global optimization 0 of 3
+INFO:robot:Max Value in Optimization 	 [13.09926838]
+INFO:robot:Starting global optimization 1 of 3
+INFO:robot:Max Value in Optimization 	 [18.90896168]
+INFO:robot:Starting global optimization 2 of 3
+INFO:robot:Max Value in Optimization 	 [24.1623237]
+INFO:robot:[2] Current Location: (7.339094605171916, 4.980807113166124, 0.6907231775402201)
+INFO:robot:Current predicted max and value: [6.86868687 3.73737374] 	 6.005429180748887
+INFO:robot:Starting global optimization 0 of 3
+INFO:robot:Max Value in Optimization 	 [23.48665055]
+INFO:robot:Starting global optimization 1 of 3
+INFO:robot:Max Value in Optimization 	 [23.25079724]
+INFO:robot:Starting global optimization 2 of 3
+INFO:robot:Max Value in Optimization 	 [22.36039063]
+INFO:robot:[3] Current Location: (8.75680128877654, 4.516753232329391, 5.950784058949262)
+INFO:robot:Current predicted max and value: [6.86868687 3.73737374] 	 5.7475228257143085
+INFO:robot:Starting global optimization 0 of 3
+INFO:robot:Max Value in Optimization 	 [24.68493814]
+INFO:robot:Starting global optimization 1 of 3
+INFO:robot:Max Value in Optimization 	 [22.15438825]
+INFO:robot:Starting global optimization 2 of 3
+INFO:robot:Max Value in Optimization 	 [37.79252358]
+INFO:robot:[4] Current Location: (9.084340495448851, 5.944411249205606, 1.384386257953894)
+INFO:robot:Current predicted max and value: [9.29292929 5.75757576] 	 8.686924167195198
+INFO:robot:Starting global optimization 0 of 3
+INFO:robot:Max Value in Optimization 	 [28.51678255]
+INFO:robot:Starting global optimization 1 of 3
+INFO:robot:Max Value in Optimization 	 [17.25771208]
+INFO:robot:Starting global optimization 2 of 3
+INFO:robot:Max Value in Optimization 	 [11.5417998]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:[0] Current Location: (5.0, 5.0, 0.0)
+INFO:robot:Current predicted max and value: [0. 0.] 	 0.0
+INFO:robot:[1] Current Location: (5.335149778313376, 3.55736494167714, 4.913643072108312)
+INFO:robot:Current predicted max and value: [10. 10.] 	 -1.1251087742810686e-10
+INFO:robot:Starting global optimization 0 of 3
+INFO:robot:Max Value in Optimization 	 [12.92398755]
+INFO:robot:Starting global optimization 1 of 3
+INFO:robot:Max Value in Optimization 	 [20.27981208]
+INFO:robot:Starting global optimization 2 of 3
+INFO:robot:Max Value in Optimization 	 [23.32619037]
+INFO:robot:[2] Current Location: (6.815663499442075, 3.517359855058567, 6.283185307179585)
+INFO:robot:Current predicted max and value: [6.96969697 3.43434343] 	 9.668351003903545
+INFO:robot:Starting global optimization 0 of 3
+INFO:robot:Max Value in Optimization 	 [26.94960497]
+INFO:robot:Starting global optimization 1 of 3
+INFO:robot:Max Value in Optimization 	 [26.33620385]
+INFO:robot:Starting global optimization 2 of 3
+INFO:robot:Max Value in Optimization 	 [30.7065396]
+INFO:robot:[3] Current Location: (7.612764934217257, 2.2564603555994713, 5.260060881409041)
+INFO:robot:Current predicted max and value: [7.37373737 2.82828283] 	 18.179499368387514
+INFO:robot:Starting global optimization 0 of 3
+INFO:robot:Max Value in Optimization 	 [28.33999445]
+INFO:robot:Starting global optimization 1 of 3
+INFO:robot:Max Value in Optimization 	 [28.17684544]
+INFO:robot:Starting global optimization 2 of 3
+INFO:robot:Max Value in Optimization 	 [20.22291429]
+INFO:robot:[4] Current Location: (8.774780846799136, 3.1482049176602436, 0.693663080413673)
+INFO:robot:Current predicted max and value: [7.17171717 2.92929293] 	 17.643226227057582
+INFO:robot:Starting global optimization 0 of 3
+INFO:robot:Max Value in Optimization 	 [16.47815089]
+INFO:robot:Starting global optimization 1 of 3
+INFO:robot:Max Value in Optimization 	 [27.86701909]
+INFO:robot:Starting global optimization 2 of 3
+INFO:robot:Max Value in Optimization 	 [33.38048336]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:[0] Current Location: (5.0, 5.0, 0.0)
+INFO:robot:Current predicted max and value: [0. 0.] 	 0.0
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:[0] Current Location: (5.0, 5.0, 0.0)
+INFO:robot:Current predicted max and value: [0. 0.] 	 0.0
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:[0] Current Location: (5.0, 5.0, 0.0)
+INFO:robot:Current predicted max and value: [0. 0.] 	 0.0
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:[0] Current Location: (5.0, 5.0, 0.0)
+INFO:robot:Current predicted max and value: [0. 0.] 	 0.0
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:[0] Current Location: (5.0, 5.0, 0.0)
+INFO:robot:Current predicted max and value: [0. 0.] 	 0.0
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:[0] Current Location: (5.0, 5.0, 0.0)
+INFO:robot:Current predicted max and value: [0. 0.] 	 0.0
+INFO:robot:Environment seed: 0
+WARNING:robot:Generating environemnt for time 0
+WARNING:robot:Current environment in violation of boundary constraint. Regenerating!
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:GP:initializing Y
+INFO:GP:initializing inference method
+INFO:GP:adding kernel and likelihood as parameters
+INFO:robot:Environment initialized with bounds X1: (0.0, 10.0)  X2: (0.0, 10.0)
+INFO:robot:World max value 27.744002272031576 at location [2.10526316 1.05263158]
+INFO:robot:[0] Current Location: (5.0, 5.0, 0.0)
+INFO:robot:Current predicted max and value: [0. 0.] 	 0.0

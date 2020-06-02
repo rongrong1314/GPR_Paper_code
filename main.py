@@ -4,9 +4,14 @@ import time
 import sys
 import logging
 import numpy as np
+import robot_library as roblib
 #自写库
+#更新机器人理解环境库
 import envmodel_library as envlib
+#创建地图库
 import obstacles as obslib
+#评估库
+import evaluation_library as evalib
 
 #一些flag参数
 SEED =  0
@@ -34,13 +39,57 @@ ranges = (0., 10., 0., 10.)
 ow = obslib.FreeWorld() #a world without obstacles
 
 #创建机器人能够识别的环境
+#没有观测值的预设先验的环境更新
 world = envlib.Environment(ranges = ranges,
                            NUM_PTS = 20,
                            variance = 100.0,
                            lengthscale = 1.0,
-                           visualize = True,
+                           visualize = False,
                            seed = SEED,
                            MIN_COLOR=MIN_COLOR,
                            MAX_COLOR=MAX_COLOR,
                            obstacle_world = ow,
                            noise=10.0)
+#将更新好后的地图和奖励函数类型
+# Create the evaluation class used to quantify the simulation metrics
+#只初始化参数没有动作
+evaluation = evalib.Evaluation(world = world, reward_function = REWARD_FUNCTION)
+#设置机器人参数
+
+robot = roblib.Robot(sample_world = world.sample_value, #function handle for collecting observations
+                     start_loc = (5.0, 5.0, 0.0), #where robot is instantiated
+                     dimension = 2,
+                     extent = ranges, #extent of the explorable environment
+                     kernel_file = None,
+                     kernel_dataset = None,
+                     #prior_dataset =  (data, observations),
+                     prior_dataset = None,
+                     init_lengthscale = 1.0,
+                     init_variance = 100.0,
+                     noise = 10.0001,
+                     #noise = 0.5000,
+                     path_generator = PATHSET, #options: default, dubins, equal_dubins, fully_reachable_goal, fully_reachable_step
+                     goal_only = GOAL_ONLY, #select only if using fully reachable step and you want the reward of the step to only be the goal
+                     frontier_size = 15,
+                     horizon_length = 1.5,
+                     turning_radius = 0.05,
+                     sample_step = 0.5,
+                     evaluation = evaluation,
+                     f_rew = REWARD_FUNCTION,
+                     create_animation = True, #logs images to the file folder
+                     learn_params = False, #if kernel params should be trained online
+                     nonmyopic = NONMYOPIC,
+                     discretization = (20, 20), #parameterizes the fully reachable sets
+                     use_cost = USE_COST, #select if you want to use a cost heuristic
+                     MIN_COLOR = MIN_COLOR,
+                     MAX_COLOR = MAX_COLOR,
+                     computation_budget = 250.0,
+                     rollout_length = 5,
+                     obstacle_world = ow,
+                     tree_type = TREE_TYPE)
+
+# Establisht the number of "steps" or "actions" the robot should take in the total mission using T
+#路径点
+robot.planner(T = 5) #robot will plan 5 actions
+robot.visualize_trajectory(screen = True) #creates a summary trajectory image
+# robot.plot_information() #plots all of the metrics of interest

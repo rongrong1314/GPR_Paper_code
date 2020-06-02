@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8dc17326-a792-4620-9d06-bde57b0a788b" name="默认更改列表" comment="" />
+    <list default="true" id="8dc17326-a792-4620-9d06-bde57b0a788b" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envmodel_library.py" beforeDir="false" afterPath="$PROJECT_DIR$/envmodel_library.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/mes/robot.log" beforeDir="false" afterPath="$PROJECT_DIR$/figures/mes/robot.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmodel_library.py" beforeDir="false" afterPath="$PROJECT_DIR$/gpmodel_library.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -14,7 +35,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ccG8USqJoFQkXqneUjfpj1loWH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="添加" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +49,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -77,6 +105,9 @@
       <option name="presentableId" value="Default" />
       <updated>1590820308823</updated>
       <workItem from="1590820311156" duration="5941000" />
+      <workItem from="1590831968687" duration="10057000" />
+      <workItem from="1590974388353" duration="17425000" />
+      <workItem from="1591001472349" duration="11963000" />
     </task>
     <servers />
   </component>
@@ -84,67 +115,86 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="337" key="GridCell.Tab.0.bottom" timestamp="1590829078326">
+    <state width="1877" height="273" key="GridCell.Tab.0.bottom" timestamp="1591059800943">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="337" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590829078326" />
-    <state width="1877" height="337" key="GridCell.Tab.0.center" timestamp="1590829078326">
+    <state width="1877" height="273" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591059800943" />
+    <state width="1877" height="273" key="GridCell.Tab.0.center" timestamp="1591059800943">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="337" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590829078326" />
-    <state width="1877" height="337" key="GridCell.Tab.0.left" timestamp="1590829078326">
+    <state width="1877" height="273" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591059800943" />
+    <state width="1877" height="273" key="GridCell.Tab.0.left" timestamp="1591059800943">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="337" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590829078326" />
-    <state width="1877" height="337" key="GridCell.Tab.0.right" timestamp="1590829078326">
+    <state width="1877" height="273" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591059800943" />
+    <state width="1877" height="273" key="GridCell.Tab.0.right" timestamp="1591059800943">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="337" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590829078326" />
-    <state width="1877" height="337" key="GridCell.Tab.1.bottom" timestamp="1590829082428">
+    <state width="1877" height="273" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591059800943" />
+    <state width="1877" height="268" key="GridCell.Tab.1.bottom" timestamp="1591059800936">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="337" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590829082428" />
-    <state width="1877" height="337" key="GridCell.Tab.1.center" timestamp="1590829082428">
+    <state width="1877" height="268" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591059800936" />
+    <state width="1877" height="268" key="GridCell.Tab.1.center" timestamp="1591059800936">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="337" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590829082428" />
-    <state width="1877" height="337" key="GridCell.Tab.1.left" timestamp="1590829082428">
+    <state width="1877" height="268" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591059800936" />
+    <state width="1877" height="268" key="GridCell.Tab.1.left" timestamp="1591059800936">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="337" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590829082428" />
-    <state width="1877" height="337" key="GridCell.Tab.1.right" timestamp="1590829082428">
+    <state width="1877" height="268" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591059800936" />
+    <state width="1877" height="268" key="GridCell.Tab.1.right" timestamp="1591059800936">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="337" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590829082428" />
-    <state x="2373" y="161" key="SettingsEditor" timestamp="1590821577678">
+    <state width="1877" height="268" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591059800936" />
+    <state x="2373" y="161" key="SettingsEditor" timestamp="1590892753070">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2373" y="161" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590821577678" />
-    <state x="0" y="0" width="1294" height="737" key="dock-window-1" timestamp="1590821933307">
+    <state x="2373" y="161" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590892753070" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1590982990621">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590982990621" />
+    <state x="0" y="0" width="1294" height="702" key="dock-window-1" timestamp="1591014677157">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="0" y="0" width="1294" height="737" key="dock-window-1/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590821933307" />
-    <state x="0" y="0" width="1294" height="737" key="dock-window-2" timestamp="1590822218664">
+    <state x="0" y="0" width="1294" height="702" key="dock-window-1/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591014677157" />
+    <state x="0" y="0" width="1294" height="737" key="dock-window-2" timestamp="1590892443228">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="0" y="0" width="1294" height="737" key="dock-window-2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590822218664" />
-    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1590825184128">
+    <state x="0" y="0" width="1294" height="737" key="dock-window-2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590892443228" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1591012889412">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590825184128" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591012889412" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/envmodel_library.py</url>
-          <line>133</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/../aq_library.py</url>
+          <line>284</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/aq_library.py</url>
+          <line>292</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mcts_library.py</url>
+          <line>726</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/robot_library.py</url>
+          <line>265</line>
+          <option name="timeStamp" value="67" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ipp$main.coverage" NAME="main Coverage Results" MODIFIED="1590829078204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ipp$main.coverage" NAME="main Coverage Results" MODIFIED="1591059053675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
